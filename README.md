@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/araekiel/sharingan/blob/main/assets/images/logos/sharingan-fill.png" alt="Sharingan" width="200">
+    <img src="https://github.com/tkhan11/DetectronAI/blob/master/assets/images/logos/detectronAI-fill.png" alt="DetectronAI" width="200">
   <br>
   Sharingan
   <br>
@@ -19,18 +19,18 @@ A Real-Time object detection app, built with <a href="https://www.electronjs.org
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
   <a href="#run--package">Run & Package</a> •
-  <a href="#authors">Authors</a> •
+  <a href="#authors">Author</a> •
   <a href="#license">License</a>
 </p>
 
-<img alt="Screenshot 1" src="https://raw.githubusercontent.com/araekiel/sharingan/main/assets/images/screenshots/2.JPG">
-<img alt="Screenshot 2" src="https://raw.githubusercontent.com/araekiel/sharingan/main/assets/images/screenshots/3.JPG">
+<img alt="Screenshot 1" src="https://github.com/tkhan11/DetectronAI/blob/master/assets/images/screenshots/2.png">
+<img alt="Screenshot 2" src="https://github.com/tkhan11/DetectronAI/blob/master/assets/images/screenshots/3.png">
 
 ## Prerequisites
 
 - Git is need to clone repository on your machine.
 - npm is needed to install packages.
-- Node.js is needed to run Sharingan.
+- Node.js is needed to run DetectronAI.
 
 ### Ubuntu
 
@@ -41,7 +41,7 @@ $ sudo apt-get install git-core
 $ sudo apt install nodejs
 $ sudo apt install npm
 ```
-### Windows 
+### Windows
 
 Use the official links for downloading on Windows:
 
@@ -54,16 +54,16 @@ Run the following commands to confirm if the installation was successful:
 ```bash
 $ git --version
 $ node --version
-$ npm --version 
+$ npm --version
 ```
 
 ## Installation
 
-Clone the repo and cd into the directory: 
+Clone the repo and cd into the directory:
 
 ```bash
-$ git clone https://github.com/araekiel/sharingan.git
-$ cd sharingan 
+$ git clone https://github.com/tkhan11/DetectronAI.git
+$ cd DetectronAI
 ```
 
 Then install the node-modules in package.json:
@@ -97,10 +97,10 @@ For Mac:
 $ npm run package-mac
 ```
 
-## Authors
+## Author
 
-- **araekiel** - [Github](https://github.com/araekiel)
+- **Tanveer** - [Github](https://github.com/tkhan11)
 
 ## License
 
-[MIT License](https://github.com/araekiel/sharingan/blob/main/LICENSE) | Copyright (c) 2022 Kumar Shashwat
+[MIT License](https://github.com/tkhan11/DetectronAI/blob/master/LICENSE) | Copyright (c) 2022 Tanveer Khan
