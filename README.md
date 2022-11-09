@@ -1,8 +1,8 @@
-<h1 align="center">
+﻿<h1 align="center">
   <br>
     <img src="https://github.com/tkhan11/DetectronAI/blob/master/assets/images/logos/detectronAI-fill.png" alt="DetectronAI" width="200">
   <br>
-  Sharingan
+  DetectronAI
   <br>
 </h1>
 
@@ -19,7 +19,7 @@ A Real-Time object detection app, built with <a href="https://www.electronjs.org
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
   <a href="#run--package">Run & Package</a> •
-  <a href="#authors">Author</a> •
+  <a href="#author">Author</a> •
   <a href="#license">License</a>
 </p>
 
@@ -104,3 +104,4 @@ $ npm run package-mac
 ## License
 
 [MIT License](https://github.com/tkhan11/DetectronAI/blob/master/LICENSE) | Copyright (c) 2022 Tanveer Khan
+
